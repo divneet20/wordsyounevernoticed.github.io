@@ -1,0 +1,4 @@
+Sitemap: https://wordsyounevernoticed.tk/sitemap.xml
+User-agent:*
+Disallow:
+
